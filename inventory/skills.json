@@ -1,0 +1,497 @@
+[
+  {
+    "name": "imagegen",
+    "location_group": "system-or-local",
+    "relative_location": ".system/imagegen/SKILL.md",
+    "sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "openai-docs",
+    "location_group": "system-or-local",
+    "relative_location": ".system/openai-docs/SKILL.md",
+    "sha256": "aa6829e21df2223167c85d2e49b6337a7345c84c1033f1ec10182c7882b36d45",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "plugin-creator",
+    "location_group": "system-or-local",
+    "relative_location": ".system/plugin-creator/SKILL.md",
+    "sha256": "71b95b8219644f95d633721e7f7cd3c469edfc8fe50f8415d400dfb2d74bc7b9",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "review-agent",
+    "location_group": "system-or-local",
+    "relative_location": ".system/review-agent/SKILL.md",
+    "sha256": "07079efd0dc76f05fade424e5dfb048dce1de2df7626e1a4f56292a4f3f92228",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "skill-creator",
+    "location_group": "system-or-local",
+    "relative_location": ".system/skill-creator/SKILL.md",
+    "sha256": "6656e54755638e8efcf275a472b9672eaa8a9a1b9e59dc210e275b03b59e1e66",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "skill-installer",
+    "location_group": "system-or-local",
+    "relative_location": ".system/skill-installer/SKILL.md",
+    "sha256": "d68b77e5bbb34dedab89d134da52855f140fc4b4299b80104f534e3b9e98f8ee",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "control-in-app-browser",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-bundled/browser/26.917.62051/skills/control-in-app-browser/SKILL.md",
+    "sha256": "7601b890ec7640edf9b20658bb16ee11db2e3194e8aab3d9c622a77e214e58e4",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "control-chrome",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-bundled/chrome/26.917.62051/skills/control-chrome/SKILL.md",
+    "sha256": "1feea4e66626fbe423f8ecabfa49639c803c5a2613052d5ded8ae2166010184b",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "computer-use",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-bundled/computer-use/1.0.1001093/skills/computer-use/SKILL.md",
+    "sha256": "aa25ae60e43b3b9af40aff50004ee35944733e4955068d3c8e3924cbd6d8bef6",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "visualize",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-bundled/visualize/1.0.39/skills/visualize/SKILL.md",
+    "sha256": "1ae340c9f703c82e23eea1c50dbfdff65bf9a1358c9d1c2d396ab47ae97bd7c4",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "brainstorming",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/brainstorming/SKILL.md",
+    "sha256": "74edf03ea6d24ef53db48677b93558d14a979bdf052ca3f57ecdca0c66791608",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/brainstorming/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "dispatching-parallel-agents",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/dispatching-parallel-agents/SKILL.md",
+    "sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/dispatching-parallel-agents/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "executing-plans",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/executing-plans/SKILL.md",
+    "sha256": "c4c3d8b628c51114cd165fb8246fe02744cd8be180032328391252e653028d9b",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/executing-plans/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "finishing-a-development-branch",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/finishing-a-development-branch/SKILL.md",
+    "sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/finishing-a-development-branch/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "receiving-code-review",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/receiving-code-review/SKILL.md",
+    "sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/receiving-code-review/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "requesting-code-review",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/requesting-code-review/SKILL.md",
+    "sha256": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/requesting-code-review/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "subagent-driven-development",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/subagent-driven-development/SKILL.md",
+    "sha256": "8dd1b8e698edec3700c6d89517dbe96febd3bacd3f6ea21c1a3569c62ea104b5",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/subagent-driven-development/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "systematic-debugging",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/systematic-debugging/SKILL.md",
+    "sha256": "808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/systematic-debugging/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "test-driven-development",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/test-driven-development/SKILL.md",
+    "sha256": "bf1b8216e523851a411e91d429a7c1c2a173e79d88957bc78e348218d50edd54",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/test-driven-development/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "using-git-worktrees",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/using-git-worktrees/SKILL.md",
+    "sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/using-git-worktrees/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "using-superpowers",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/using-superpowers/SKILL.md",
+    "sha256": "30f2ab78e20ddc27ee7158ae8d4a2abe161c360981c7cc3548070913142d3dc3",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/using-superpowers/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "verification-before-completion",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/verification-before-completion/SKILL.md",
+    "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/verification-before-completion/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "writing-plans",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/writing-plans/SKILL.md",
+    "sha256": "48508f44bbfd7d24b029fbf3a314f3cd14c9615599059366e922f47b8dc08cf2",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/writing-plans/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "writing-skills",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated/superpowers/1dc19589/skills/writing-skills/SKILL.md",
+    "sha256": "d34db5c8aed6a4e0440132bd0613aace70a693ec7819d5637ad77481d8e10d1b",
+    "publication": "files-included",
+    "repository_path": "skills/superpowers/writing-skills/SKILL.md",
+    "note": null
+  },
+  {
+    "name": "artifact-template-analytics-dashboard",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard/SKILL.md",
+    "sha256": "cf5360fd8b197673bb237c52c603c97fa319c875c3dfa2cd8efff52d4422f513",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-business-review",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review/SKILL.md",
+    "sha256": "27721fc1d67d1b41949caa75ac8f94f81952ff124406878af6524047929e60d2",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-design-report",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report/SKILL.md",
+    "sha256": "563722f53854e606f8a9f87e37e72d7ef70a22d46d5836b8e4d6abfb1b79e9e0",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-experiment-analysis",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis/SKILL.md",
+    "sha256": "0b05effc47df0a14f8e0c3e3597e6722224747435546385d38a2cae279bd20b9",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-financial-budget",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget/SKILL.md",
+    "sha256": "c0b6b7a62a15597aaf2b1ec679e21da48f533b756127f0aef957cdfe9f3da738",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-investment-committee-memo",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo/SKILL.md",
+    "sha256": "68abd08cfe5e073e3c446a3f675f44c5bf98f57434dba679e8acd8a763379a8b",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-legal-memorandum",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum/SKILL.md",
+    "sha256": "51fb9d21baf6119c4ccb1903638a6bac0e859210de63460fffa7025d52e997e0",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-market-trends-report",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report/SKILL.md",
+    "sha256": "d58d019b89cb6f292ac3ab991d561489eef477ff53ce05fb024a0c936f5af26a",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-minimal-letterhead",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead/SKILL.md",
+    "sha256": "880ef094d4d0c89a7bde5ce9bbe4086625c186651e9e6efc8ba8bdd7cc77f9d5",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-operating-calendar",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar/SKILL.md",
+    "sha256": "33bb660791a0b9a21628a42c34934932220203b6aabd84e98cb1b45327d0384c",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-operating-review",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review/SKILL.md",
+    "sha256": "6d63c5cd025ffe936e7bab5db3023672bbaec26af55c2bb8b057d38c202c9c32",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-project-kickoff",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff/SKILL.md",
+    "sha256": "aa893ebd89e7c8d1db4261d01cc2b1add35d78d00785871ccaaa5fc8db783ec9",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-project-tracker",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker/SKILL.md",
+    "sha256": "d97d5be20189b7f53dd269b6e1c5f694eaf53e5a72f6559fcb1578911b7cda82",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-sales-pipeline",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline/SKILL.md",
+    "sha256": "15cfeeedf440021f16ed3f3ad8c7c1ef6d48898b9447741e223d2fb41cfc9800",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-simple-dark-mode",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode/SKILL.md",
+    "sha256": "b7c8d0c05f75878b9bc21e56a57c41ec1aa29700aca0a24822be0f9f1bd53207",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-simple-light-mode",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode/SKILL.md",
+    "sha256": "7c68430c6cf57b55b457d4735dbd1a46b889bef135a32222902dd0848b6e1752",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-strategy-memorandum",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum/SKILL.md",
+    "sha256": "51d7882ac94e8e57b323394825728c33925af878806e37277217c2dc12a912e5",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-system-design",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design/SKILL.md",
+    "sha256": "87f7b7ed1b0d8410f5e5971cd7f7db9a4165e2f37069e97e52dbfb469b75a57c",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-team-alignment",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment/SKILL.md",
+    "sha256": "26d7cafdcd1899a937b325c5d02ac57c162d45002153be33a934d35f81eb6110",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "artifact-template-three-statement-forecast",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast/SKILL.md",
+    "sha256": "74f4a5cccec0107b861548b157e04c51d9b58ec13a990c86394b4c529b8ecf41",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "plugin-management",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/plugin-management/0.1.0/skills/plugin-management/SKILL.md",
+    "sha256": "653841cc21205269f08b0ce135891e1518dac616a766bcfb0b57d788d3f68b10",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "sites-building",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/sites/0.1.71/skills/sites-building/SKILL.md",
+    "sha256": "a8f913497a846825f2011a8e49dd9250f821cd99fad21fcbfbd94be823595a30",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "sites-hosting",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/sites/0.1.71/skills/sites-hosting/SKILL.md",
+    "sha256": "26318ee23cf1927a8687ae4f74cd6d11ca2c7eb8e52b2c4801c3059a479d5721",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "sites-preview-troubleshooting",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-curated-remote/sites/0.1.71/skills/sites-preview-troubleshooting/SKILL.md",
+    "sha256": "b8d2cb0731ed0c46888f2e455b23a7114b209c66ac3708e6502b0f280065938e",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "documents",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-primary-runtime/documents/26.905.11957/skills/documents/SKILL.md",
+    "sha256": "c6ad99c5c601186f63e4849e89d59e800f32500fe7bdad012b5309c6958f94ac",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "pdf",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-primary-runtime/pdf/26.905.11957/skills/pdf/SKILL.md",
+    "sha256": "afc4472ec4d625f703e9f414fe6814ce3cfa0ec51c7a07887fe587264c8b561e",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "Presentations",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-primary-runtime/presentations/26.905.11957/skills/presentations/SKILL.md",
+    "sha256": "4b40a55cd7747ed101498889b1dbb63f05aae478d44af96423657888e33b48ae",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "excel-live-control",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-primary-runtime/spreadsheets/26.905.11957/skills/excel-live-control/SKILL.md",
+    "sha256": "cdc929cabe81c31e87a2df032ee5bb2ab1857eb78bcb6eb9e51ced4b1b65a863",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "Spreadsheets",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-primary-runtime/spreadsheets/26.905.11957/skills/spreadsheets/SKILL.md",
+    "sha256": "d5d9e4b1863527e2577106e324815cc5c498bd9d8af304ad2f210c2ede985b39",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "template-creator",
+    "location_group": "plugin-cache",
+    "relative_location": "openai-primary-runtime/template-creator/26.905.11957/skills/template-creator/SKILL.md",
+    "sha256": "f1d14fd2847a2e879611a8b8f872f5dc4676a0607958d015274d2dc61e812deb",
+    "publication": "inventory-only",
+    "repository_path": null,
+    "note": "Runtime/system/cache material; redistribution permission not established. Cache presence does not prove activation."
+  },
+  {
+    "name": "impeccable",
+    "location_group": "user-global",
+    "relative_location": "impeccable/SKILL.md",
+    "sha256": "fa0cb3ef01a25b9094266109a63c1d01d4b2d4973f75b324f5c4ad7e568d148f",
+    "publication": "files-included",
+    "repository_path": "skills/impeccable/SKILL.md",
+    "note": null
+  }
+]

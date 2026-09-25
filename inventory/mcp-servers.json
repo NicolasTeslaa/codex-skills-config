@@ -1,0 +1,51 @@
+[
+  {
+    "name": "serena",
+    "enabled": true,
+    "configuration_fields": [
+      "command",
+      "args"
+    ],
+    "restore": "Reconfigure locally. Arguments, endpoints, environment and machine paths intentionally omitted."
+  },
+  {
+    "name": "node_repl",
+    "enabled": true,
+    "configuration_fields": [
+      "args",
+      "command",
+      "startup_timeout_sec",
+      "env"
+    ],
+    "restore": "Reconfigure locally. Arguments, endpoints, environment and machine paths intentionally omitted."
+  },
+  {
+    "name": "computer-use",
+    "enabled": false,
+    "configuration_fields": [
+      "command",
+      "args",
+      "cwd",
+      "enabled"
+    ],
+    "restore": "Reconfigure locally. Arguments, endpoints, environment and machine paths intentionally omitted."
+  },
+  {
+    "name": "meta_developer_tools",
+    "enabled": true,
+    "configuration_fields": [
+      "enabled",
+      "url"
+    ],
+    "restore": "Reconfigure locally. Arguments, endpoints, environment and machine paths intentionally omitted."
+  },
+  {
+    "name": "cua_repl",
+    "enabled": false,
+    "configuration_fields": [
+      "command",
+      "enabled"
+    ],
+    "restore": "Reconfigure locally. Arguments, endpoints, environment and machine paths intentionally omitted."
+  }
+]

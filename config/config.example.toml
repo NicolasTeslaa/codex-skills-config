@@ -1,0 +1,57 @@
+# Portable settings snapshot. Merge selectively; do not overwrite an existing configuration.
+
+"model" = "gpt-6-astra"
+"model_reasoning_effort" = "medium"
+"service_tier" = "default"
+
+["features"]
+"js_repl" = false
+
+["plugins"]
+
+["plugins"."github@openai-curated"]
+"enabled" = true
+
+["plugins"."gmail@openai-curated"]
+"enabled" = true
+
+["plugins"."documents@openai-primary-runtime"]
+"enabled" = true
+
+["plugins"."spreadsheets@openai-primary-runtime"]
+"enabled" = true
+
+["plugins"."presentations@openai-primary-runtime"]
+"enabled" = true
+
+["plugins"."computer-use@openai-bundled"]
+"enabled" = true
+
+["plugins"."pdf@openai-primary-runtime"]
+"enabled" = true
+
+["plugins"."template-creator@openai-primary-runtime"]
+"enabled" = true
+
+["plugins"."visualize@openai-bundled"]
+"enabled" = true
+
+["plugins"."superpowers@openai-curated"]
+"enabled" = true
+
+["plugins"."browser@openai-bundled"]
+"enabled" = true
+
+["plugins"."chrome@openai-bundled"]
+"enabled" = true
+
+["plugins"."codex-app-tools@openai-bundled"]
+"enabled" = true
+
+["desktop"]
+"followUpQueueMode" = "queue"
+"ambient-suggestions-enabled" = true
+"dock-icon-preference" = "codex-system"
+"realtimeVoiceScreenContextEnabled" = true
+"show-context-window-usage" = true
+"open-local-url-in-target-preference" = "external-browser"

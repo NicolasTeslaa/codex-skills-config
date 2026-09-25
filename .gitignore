@@ -1,0 +1,17 @@
+auth.json
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.db
+*.pem
+*.key
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+sessions/
+archived_sessions/
+logs/
+*.log
+config.local.toml
