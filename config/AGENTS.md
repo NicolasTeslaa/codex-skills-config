@@ -34,3 +34,11 @@
 - Sempre que possível, mostre as paletas aplicadas ao mesmo pequeno exemplo de interface, como cabeçalho, botão e cartão, para facilitar a comparação. Verifique o contraste dos pares de texto/fundo e os estados de interação antes de aplicar; não afirme acessibilidade sem verificar.
 - Pergunte qual direção/paleta o usuário prefere e aguarde sua escolha antes de implementar as decisões visuais dependentes. Permita combinar ou ajustar opções e retome as perguntas quando houver dúvidas. Uma escolha explícita já feita vale como confirmação; não repita a seleção em cada pequena alteração.
 - Registre a direção aprovada na documentação visual pertinente do projeto. Em manutenção pontual que preserve a identidade aprovada, mantenha-a; se for necessário mudar a paleta ou a direção visual, reabra a escolha com referências e opções. Estas preferências orientam o uso da Impeccable mesmo após atualizações da skill.
+
+## Commit e push de alterações em código
+
+- Ao concluir uma tarefa que altere código, verifique se o projeto tem GitHub Actions configurado, procurando workflows `.yml` ou `.yaml` em `.github/workflows/`.
+- Se não houver workflow do GitHub Actions, conclua as verificações pertinentes e então faça commit das alterações da tarefa e push para a branch e remoto já configurados. Isso não autoriza publicar segredos, arquivos ignorados, mudanças alheias à tarefa ou conteúdo sem permissão de redistribuição; revise o diff e o estado do Git antes de stage/commit.
+- Se houver workflow do GitHub Actions, termine a implementação e as verificações, mostre o resultado pronto e pergunte ao usuário se autoriza o commit e o push. Não faça esses dois passos até receber autorização explícita.
+- A condição refere-se a workflows do GitHub Actions no repositório, não a outros serviços de CI. Se Git, branch ou remoto não permitir o push, explique o impedimento e informe o estado do commit sem alegar sincronização.
+- Não crie commits vazios. Inclua no resumo final o hash do commit e o resultado do push, ou diga que aguardam autorização quando houver Actions.
